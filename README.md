@@ -17,3 +17,7 @@ Work in progress.
 ```
 docker run -t -i --rm --name ldap -e LDAP_PASSWORD=foo -e DEBUG=true panubo/ldap
 ```
+
+## Further reading
+
+See https://wiki.debian.org/LDAP/OpenLDAPSetup
