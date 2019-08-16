@@ -1,3 +1,9 @@
+# Deprecation Notice!
+
+NB: This project is no longer maintained and the repository is archived.
+
+---
+
 # LDAP Docker Container
 
 ## Status
